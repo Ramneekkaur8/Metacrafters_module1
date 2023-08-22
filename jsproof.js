@@ -23,10 +23,6 @@ function listNFTs() {
 }
 }
 
-//this function is for print the total number of NFTs we have minted to the console
-// function getTotalSupply() {
-//   console.log("\nTotal number of NFTs: " + NFTs.length);
-// }
 
 // calling  functions
 mintNFT("ramneek", "brown", "jacket", "imperial");
