@@ -29,4 +29,4 @@ mintNFT("ramneek", "brown", "jacket", "imperial");
 mintNFT("fluffy","turban","kimono","chaser");
 mintNFT("sony","sombrero","suit","verdi");
 listNFTs();
-
+getTotalSupply();
